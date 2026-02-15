@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Cricket Tournament Player Registration 2026",
+    "role": "BAT",
+    "rating": 5,
+    "raw": "Cricket Tournament Player Registration 2026"
+  },
+  {
+    "name": "Virat Kohli",
+    "role": "BAT",
+    "rating": 9,
+    "raw": "Virat Kohli BAT 9"
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "BAT",
+    "rating": 9,
+    "raw": "Rohit Sharma BAT 9"
+  },
+  {
+    "name": "KL Rahul",
+    "role": "WK",
+    "rating": 8,
+    "raw": "KL Rahul WK 8"
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "WK",
+    "rating": 8,
+    "raw": "MS Dhoni WK 8"
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "AR",
+    "rating": 8,
+    "raw": "Hardik Pandya AR 8"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "AR",
+    "rating": 9,
+    "raw": "Ravindra Jadeja AR 9"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "BOWL",
+    "rating": 10,
+    "raw": "Jasprit Bumrah BOWL 10"
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "BOWL",
+    "rating": 9,
+    "raw": "Mohammed Shami BOWL 9"
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "BOWL",
+    "rating": 8,
+    "raw": "Bhuvneshwar Kumar BOWL 8"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "BAT",
+    "rating": 7,
+    "raw": "Shreyas Iyer BAT 7"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "BAT",
+    "rating": 8,
+    "raw": "Suryakumar Yadav BAT 8"
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "WK",
+    "rating": 8,
+    "raw": "Rishabh Pant WK 8"
+  },
+  {
+    "name": "Axar Patel",
+    "role": "AR",
+    "rating": 7,
+    "raw": "Axar Patel AR 7"
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "BOWL",
+    "rating": 8,
+    "raw": "Kuldeep Yadav BOWL 8"
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "BOWL",
+    "rating": 8,
+    "raw": "Yuzvendra Chahal BOWL 8"
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "BAT",
+    "rating": 8,
+    "raw": "Shubman Gill BAT 8"
+  },
+  {
+    "name": "Ishan Kishan",
+    "role": "WK",
+    "rating": 7,
+    "raw": "Ishan Kishan WK 7"
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "BOWL",
+    "rating": 7,
+    "raw": "Deepak Chahar BOWL 7"
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "AR",
+    "rating": 7,
+    "raw": "Washington Sundar AR 7"
+  },
+  {
+    "name": "Prithvi Shaw",
+    "role": "BAT",
+    "rating": 7,
+    "raw": "Prithvi Shaw BAT 7"
+  },
+  {
+    "name": "Sanju Samson",
+    "role": "WK",
+    "rating": 7,
+    "raw": "Sanju Samson WK 7"
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "BOWL",
+    "rating": 8,
+    "raw": "Arshdeep Singh BOWL 8"
+  }
+]

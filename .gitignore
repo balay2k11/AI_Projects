@@ -1,0 +1,3 @@
+.env
+*.env
+Office_KG_RAG_POC/.env

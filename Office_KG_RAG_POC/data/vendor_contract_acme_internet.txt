@@ -1,0 +1,6 @@
+Vendor Contract: ACME Internet
+
+Service: Office internet connectivity.
+SLA: Response within 4 hours for downtime incidents.
+Penalty: 2% monthly fee rebate if SLA missed more than 3 times.
+Contract value: Confidential.

@@ -1,0 +1,45 @@
+[
+  {
+    "source": "hr_leave_policy.txt",
+    "chunk_id": 0,
+    "domain": "HR",
+    "allowed_roles": [
+      "HR",
+      "MANAGER"
+    ],
+    "text": "HR Leave Policy\n\nEmployees are eligible for 18 annual leave days per year.\nLeave approval: MANAGER approves employee leave; HR audits monthly.\nSick leave requires a doctor's note if more than 2 consecutive days.\nPayroll questions must be raised to HR only."
+  },
+  {
+    "source": "meeting_rooms.md",
+    "chunk_id": 0,
+    "domain": "Facilities",
+    "allowed_roles": [
+      "EMPLOYEE",
+      "MANAGER",
+      "HR",
+      "ADMIN"
+    ],
+    "text": "# Meeting Rooms\n\n## Rooms\n- Board Room (capacity 20) - BOOKABLE_BY: MANAGER, ADMIN\n- Alpha Room (capacity 8) - BOOKABLE_BY: EMPLOYEE, MANAGER, HR, ADMIN\n\n## Booking Rules\nBookings can be made up to 14 days in advance.\nCancellations should be done at least 2 hours before the meeting."
+  },
+  {
+    "source": "office_policy.txt",
+    "chunk_id": 0,
+    "domain": "General",
+    "allowed_roles": [
+      "EMPLOYEE",
+      "MANAGER",
+      "HR",
+      "ADMIN"
+    ],
+    "text": "Office Policy\n\nOffice hours: Monday to Friday, 9 AM to 6 PM IST.\nVisitors must register at reception.\nEmployees can book meeting rooms using the internal portal.\nThe Board Room is bookable only by MANAGER and ADMIN."
+  },
+  {
+    "source": "vendor_contract_acme_internet.txt",
+    "chunk_id": 0,
+    "domain": "IT",
+    "allowed_roles": [
+      "ADMIN"
+    ],
+    "text": "Vendor Contract: ACME Internet\n\nService: Office internet connectivity.\nSLA: Response within 4 hours for downtime incidents.\nPenalty: 2% monthly fee rebate if SLA missed more than 3 times.\nContract value: Confidential."
+  }
+]

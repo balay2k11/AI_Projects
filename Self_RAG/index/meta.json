@@ -1,0 +1,12 @@
+[
+  {
+    "source": "company_policy.txt",
+    "chunk_id": 0,
+    "text": "Company Refund Policy\n\n1. Refund Eligibility\nCustomers can request a refund within 7 days of purchase.\nThe product must not be damaged or used extensively.\n\n2. Refund Process\nCustomers must email support@company.com with their order ID.\nRefunds are processed within 5 business days after approval.\n\n3. Late Refunds\nIf a refund is not received within 10 business days, customers should contact the support team.\n\n4. Exceptions\nDigital products are non-refundable once downloaded.\nCustom-made products are not eligible for refunds.\n\n5. Support Hours\nCustomer support operates Monday to Friday, 9 AM to 6 PM IST."
+  },
+  {
+    "source": "product_manual.md",
+    "chunk_id": 0,
+    "text": "# Product User Manual\n\n## Installation\n\nTo install the application:\n1. Download the installer.\n2. Run the setup file.\n3. Follow the on-screen instructions.\n\n## Login Process\n\nUsers must:\n- Enter their registered email\n- Enter their password\n- Click the Login button\n\nIf the user forgets their password, they can reset it using the \"Forgot Password\" link.\n\n## System Requirements\n\n- Windows 10 or higher\n- 8GB RAM minimum\n- 2GB free disk space\n\n## Troubleshooting\n\nIf the application crashes:\n- Restart the application\n- Check internet connection\n- Contact support if issue persists"
+  }
+]
